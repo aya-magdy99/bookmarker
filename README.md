@@ -2,6 +2,8 @@
 
 ## Web app with HTML, Css, Bootstrap and pure JavaScript 
 
+[Live Demo](https://bookmarker-by-aya.netlify.app/ "Bookmarker web app")
+
 ### How to use
 
 1. enter your website's name.
